@@ -16,3 +16,5 @@ options:
   -v romver   Only acquire stable, dev, test
   -l number   Print result line number
 ```
+# Thanks
+[xiaoxindada](https://github.com/xiaoxindada)
